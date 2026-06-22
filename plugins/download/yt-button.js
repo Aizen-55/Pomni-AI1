@@ -15,7 +15,7 @@ const handler = async (m, { conn, text }) => {
         ],
         mentions: [m.sender],
         newsletter: { name: "𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️", jid: "120363225356834044@newsletter" },
-        interactiveConfig: { buttons_limits: 10, list_title: "", button_title: "", canonical_url: url }
+        interactiveConfig: { buttons_limits: 10, list_title: "Pomni 🎀", button_title: "Pomni 🎀", canonical_url: url }
     }, m);
 };
 
